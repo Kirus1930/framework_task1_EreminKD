@@ -19,11 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <None Include="BuildingMaterialValidator.cs" />
     <None Include="ErrorResponse.cs" />
     <None Include="ExceptionHandlingMiddleware.cs" />
     <None Include="ExecutionTimeMiddleware.cs" />
     <None Include="InMemoryStorageService.cs" />
     <None Include="IStorageService.cs" />
+    <None Include="MaterialsController.cs" />
+    <None Include="MaterialsControllerTests.cs" />
+    <None Include="Program.cs" />
     <None Include="RequestLoggingMiddleware.cs" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
