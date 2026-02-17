@@ -1,7 +1,7 @@
-using CatalogService.Application.DTOs;
-using CatalogService.Domain.Exceptions;
+using BuildingMaterialsCatalog.Application.DTOs;
+using BuildingMaterialsCatalog.Domain.Exceptions;
 
-namespace CatalogService.Domain.Validation;
+namespace BuildingMaterialsCatalog.Domain.Validation;
 
 public static class ItemValidator
 {
