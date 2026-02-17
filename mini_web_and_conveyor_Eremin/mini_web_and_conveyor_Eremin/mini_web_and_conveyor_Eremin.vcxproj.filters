@@ -13,17 +13,53 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Validators">
+      <UniqueIdentifier>{ab864e5f-0e41-454f-ab51-1daf674cb336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tests">
+      <UniqueIdentifier>{cf0a1739-61a2-4a6d-be2a-15856954a2cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{b1a71268-506a-4cf0-84c4-26eef13b8cac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Middleware">
+      <UniqueIdentifier>{17c50514-f0da-471b-8556-06a8ab84e42c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Services">
+      <UniqueIdentifier>{147abc04-9ff4-433b-9913-9b0c56176006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers">
+      <UniqueIdentifier>{e0639a41-f13e-44a3-9809-5aa60b8b800a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ErrorResponse.cs" />
-    <None Include="IStorageService.cs" />
-    <None Include="InMemoryStorageService.cs" />
-    <None Include="RequestLoggingMiddleware.cs" />
-    <None Include="ExceptionHandlingMiddleware.cs" />
-    <None Include="ExecutionTimeMiddleware.cs" />
-    <None Include="BuildingMaterialValidator.cs" />
-    <None Include="MaterialsController.cs" />
+    <None Include="BuildingMaterialValidator.cs">
+      <Filter>Validators</Filter>
+    </None>
+    <None Include="MaterialsControllerTests.cs">
+      <Filter>Tests</Filter>
+    </None>
+    <None Include="ErrorResponse.cs">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="ExceptionHandlingMiddleware.cs">
+      <Filter>Middleware</Filter>
+    </None>
+    <None Include="ExecutionTimeMiddleware.cs">
+      <Filter>Middleware</Filter>
+    </None>
+    <None Include="InMemoryStorageService.cs">
+      <Filter>Services</Filter>
+    </None>
+    <None Include="IStorageService.cs">
+      <Filter>Services</Filter>
+    </None>
+    <None Include="MaterialsController.cs">
+      <Filter>Controllers</Filter>
+    </None>
+    <None Include="RequestLoggingMiddleware.cs">
+      <Filter>Middleware</Filter>
+    </None>
     <None Include="Program.cs" />
-    <None Include="MaterialsControllerTests.cs" />
   </ItemGroup>
 </Project>

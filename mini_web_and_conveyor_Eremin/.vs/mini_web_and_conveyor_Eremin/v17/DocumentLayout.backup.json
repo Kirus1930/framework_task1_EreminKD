@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ExecutionTimeMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|solutionrelative:mini_web_and_conveyor_Eremin\\ExecutionTimeMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ExceptionHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|solutionrelative:mini_web_and_conveyor_Eremin\\ExceptionHandlingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\RequestLoggingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|solutionrelative:mini_web_and_conveyor_Eremin\\RequestLoggingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\InMemoryStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|solutionrelative:mini_web_and_conveyor_Eremin\\InMemoryStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\IStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|solutionrelative:mini_web_and_conveyor_Eremin\\IStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ErrorResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|solutionrelative:mini_web_and_conveyor_Eremin\\ErrorResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\BuildingMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mini_web_and_conveyor_Eremin\\BuildingMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2AC70A-FA0D-4206-8EE2-83C67FC2D743}|mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin.vcxproj|solutionrelative:mini_web_and_conveyor_Eremin\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExecutionTimeMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ExecutionTimeMiddleware.cs",
-              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\ExecutionTimeMiddleware.cs",
-              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ExecutionTimeMiddleware.cs",
-              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\ExecutionTimeMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T09:14:13.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T09:12:36.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RequestLoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\RequestLoggingMiddleware.cs",
-              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\RequestLoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\RequestLoggingMiddleware.cs",
-              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\RequestLoggingMiddleware.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwCEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T09:10:28.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InMemoryStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\InMemoryStorageService.cs",
-              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\InMemoryStorageService.cs",
-              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\InMemoryStorageService.cs",
-              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\InMemoryStorageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T09:00:38.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\IStorageService.cs",
-              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\IStorageService.cs",
-              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\IStorageService.cs",
-              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\IStorageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T08:35:17.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ErrorResponse.cs",
-              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\ErrorResponse.cs",
-              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\ErrorResponse.cs",
-              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\ErrorResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T08:28:58.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BuildingMaterial.cs",
-              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\BuildingMaterial.cs",
-              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\BuildingMaterial.cs",
-              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\BuildingMaterial.cs",
-              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\BuildingMaterial.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\Program.cs",
+              "RelativeDocumentMoniker": "mini_web_and_conveyor_Eremin\\Program.cs",
+              "ToolTip": "C:\\Users\\Kiril\\Documents\\GitHub\\framework_task1_EreminKD\\mini_web_and_conveyor_Eremin\\mini_web_and_conveyor_Eremin\\Program.cs",
+              "RelativeToolTip": "mini_web_and_conveyor_Eremin\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T08:28:25.664Z",
+              "WhenOpened": "2026-02-17T06:19:38.822Z",
               "EditorCaption": ""
             }
           ]
