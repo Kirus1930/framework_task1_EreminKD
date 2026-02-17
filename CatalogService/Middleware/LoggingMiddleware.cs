@@ -1,4 +1,4 @@
-namespace CatalogService.Middleware;
+namespace BuildingMaterialsCatalog.Middleware;
 
 public class LoggingMiddleware
 {
