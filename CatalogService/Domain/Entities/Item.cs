@@ -1,6 +1,6 @@
-using CatalogService.Domain.Enums;
+using BuildingMaterialsCatalog.Domain.Enums;
 
-namespace CatalogService.Domain.Entities;
+namespace BuildingMaterialsCatalog.Domain.Entities;
 
 public class Item
 {
