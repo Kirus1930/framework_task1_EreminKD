@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
-using CatalogService.Domain.Entities;
+using BuildingMaterialsCatalog.Domain.Entities;
 
-namespace CatalogService.Infrastructure.Repositories;
+namespace BuildingMaterialsCatalog.Infrastructure.Repositories;
 
 public class InMemoryItemRepository : IItemRepository
 {
