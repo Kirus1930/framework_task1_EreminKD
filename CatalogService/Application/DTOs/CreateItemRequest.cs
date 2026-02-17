@@ -1,6 +1,6 @@
-using CatalogService.Domain.Enums;
+using BuildingMaterialsCatalog.Domain.Enums;
 
-namespace CatalogService.Application.DTOs;
+namespace BuildingMaterialsCatalog.Application.DTOs;
 
 public class CreateItemRequest
 {
