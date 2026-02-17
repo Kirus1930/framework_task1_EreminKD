@@ -1,4 +1,4 @@
-namespace CatalogService.Domain.Exceptions;
+namespace BuildingMaterialsCatalog.Domain.Exceptions;
 
 public class DomainException : Exception
 {
