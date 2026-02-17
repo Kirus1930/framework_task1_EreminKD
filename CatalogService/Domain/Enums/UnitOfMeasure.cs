@@ -1,4 +1,4 @@
-namespace CatalogService.Domain.Enums;
+namespace BuildingMaterialsCatalog.Domain.Enums;
 
 public enum UnitOfMeasure
 {
