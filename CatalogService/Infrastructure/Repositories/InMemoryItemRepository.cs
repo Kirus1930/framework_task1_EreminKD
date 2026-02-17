@@ -5,7 +5,7 @@ namespace CatalogService.Infrastructure.Repositories;
 
 public class InMemoryItemRepository : IItemRepository
 {
-    private readonly ConcurrentDictionary<Guid, Item> _items = new();
+    private readonly ConcurrentDictionary<Guid, Item> _items = new(); // Защита от конфликтов при параллельных POST-запросах
 
     public IEnumerable<Item> GetAll()
     {
