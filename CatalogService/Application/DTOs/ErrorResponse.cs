@@ -1,4 +1,4 @@
-namespace CatalogService.Application.DTOs;
+namespace BuildingMaterialsCatalog.Application.DTOs;
 
 public class ErrorResponse
 {
