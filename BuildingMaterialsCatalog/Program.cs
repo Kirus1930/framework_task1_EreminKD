@@ -1,6 +1,7 @@
 using BuildingMaterialsCatalog.Middleware;
 using BuildingMaterialsCatalog.Services;
 using BuildingMaterialsCatalog.Validators;
+using BuildingMaterialsCatalog.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
