@@ -5,7 +5,7 @@
 ```bash
 dotnet run
 ```
-Сервер запустится на `http://localhost:5000` (или другом порту, указанном в Properties/launchSettings.json).
+Сервер запустится на `http://localhost:5000`.
 
 ### Доступные endpoints
 
@@ -30,7 +30,7 @@ curl -X POST http://localhost:5000/api/materials \
   -d '{"name":"Кирпич","unitOfMeasure":"pcs","pricePerUnit":25,"quantityInStock":1000}'
 ```
 
-### Получить материал по ID (замените {id})
+### Получить материал по ID
 ```bash
 curl http://localhost:5000/api/materials/{id}
 ```
