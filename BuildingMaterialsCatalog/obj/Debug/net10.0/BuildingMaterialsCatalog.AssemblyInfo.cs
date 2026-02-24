@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuildingMaterialsCatalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33d6c53e1074fd53932a9b8347c07045945490b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a0d0e1a559998334187f7db066bf32b1c9d1f5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuildingMaterialsCatalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuildingMaterialsCatalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
