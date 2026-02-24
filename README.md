@@ -3,6 +3,8 @@
 
 ### Запуск
 ```bash
+cd BuildingMaterialsCatalog
+
 dotnet run
 ```
 Сервер запустится на `http://localhost:5000`.
