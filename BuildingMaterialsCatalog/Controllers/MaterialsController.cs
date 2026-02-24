@@ -44,4 +44,15 @@ public class MaterialsController : ControllerBase
         _logger.LogInformation("Created material {MaterialId}", material.Id);
         return CreatedAtAction(nameof(GetById), new { id = material.Id }, material);
     }
+
+    [HttpDelete("{id}")]
+    public IActionResult Delete(Guid id)
+    {
+        var deleted = _storage.Delete(id);
+        if (!deleted)
+            throw new KeyNotFoundException($"Material with id '{id}' not found.");
+    
+        _logger.LogInformation("Deleted material {MaterialId}", id);
+        return NoContent(); 
+}
 }
