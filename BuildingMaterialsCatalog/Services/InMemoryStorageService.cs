@@ -36,4 +36,9 @@ public class InMemoryStorageService : IStorageService
             _semaphore.Release();
         }
     }
+
+    public bool Delete(Guid id)
+    {
+        return _storage.TryRemove(id, out _);
+    }
 }
