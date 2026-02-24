@@ -16,7 +16,8 @@ public class HomeController : ControllerBase
             {
                 "GET /api/materials",
                 "GET /api/materials/{id}",
-                "POST /api/materials"
+                "POST /api/materials",
+                "DELETE /api/materials/{id}"
             }
         });
     }
