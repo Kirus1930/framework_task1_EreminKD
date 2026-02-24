@@ -15,6 +15,7 @@ dotnet run
 | GET   | `/api/materials`     | Список всех материалов            |
 | GET   | `/api/materials/{id}`| Материал по ID                    |
 | POST  | `/api/materials`     | Создать новый материал            |
+|DELETE | `/api/materials/{id}`| Удалить материал по ID            |
 
 ### Примеры запросов
 
@@ -33,6 +34,11 @@ curl -X POST http://localhost:5000/api/materials \
 ### Получить материал по ID
 ```bash
 curl http://localhost:5000/api/materials/{id}
+```
+
+### Удалить материал по ID
+```bash
+curl -X DELETE http://localhost:5000/api/materials/{id}
 ```
 
 ## Формат ошибок
